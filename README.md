@@ -36,11 +36,11 @@
 
 
 ## Acknowledgements
-- This project was inspired by UpGrad & BoomBikes data 
+- This project was inspired by UpGrad & CNN data 
 
 
 ## Contact
-Created by [@ksoham9552] - feel free to contact me!
+Created by [@konda100] - feel free to contact me!
 
 
 <!-- Optional -->
